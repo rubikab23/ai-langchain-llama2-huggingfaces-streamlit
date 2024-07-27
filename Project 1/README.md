@@ -22,7 +22,7 @@ This application is a simple Q&A interface where users can ask questions and get
     - Enter your question in the provided text area.
     - Click "Generate" to get an answer from the AI model.
 
-## Attachement
+## Attachment
 
 ![alt text](image.png)
 
